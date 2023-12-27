@@ -9,10 +9,6 @@ Welcome to my GitHub Page! I'm an undergraduate student at Northwestern studying
 
 I'm currently working on a variety of personal projects that blend my passions for design and technology, so take a look around my page! ✧
 
-## Recent Projects
-[Generative Methods](https://github.com/ellennkim/generative-methods)
-[Personal Portfolio](https://github.com/ellennkim/ellennkim.github.io)
-
 <!--
 **ellennkim/ellennkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
