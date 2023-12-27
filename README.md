@@ -1,6 +1,6 @@
 ### Hi, I'm Ellen ｡･:*˚:✧｡
 
-I'm an undergraduate student at Northwestern studying CS & Neuroscience with interests in full-stack development and AI/ML applications.
+Welcome to my GitHub Page! I'm an undergraduate student at Northwestern studying CS & Neuroscience with interests in full-stack development and AI/ML applications.
 
 <!--
 **ellennkim/ellennkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
