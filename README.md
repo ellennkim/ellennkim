@@ -2,6 +2,10 @@
 
 Welcome to my GitHub Page! I'm an undergraduate student at Northwestern studying CS & Neuroscience with interests in full-stack development and AI/ML applications.
 
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/mACKUmiFei0utbuDB3" width="100"/>
+</div>
+
 <!--
 **ellennkim/ellennkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
