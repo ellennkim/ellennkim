@@ -1,7 +1,7 @@
 ### Hi, I'm Ellen (she/her) ｡･:*˚:✧｡
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWwwbjQya3V4d25iOG9wa2E5eTMydXBsemJrejd6bnJjbXRrczNxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mACKUmiFei0utbuDB3/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWwwbjQya3V4d25iOG9wa2E5eTMydXBsemJrejd6bnJjbXRrczNxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mACKUmiFei0utbuDB3/giphy.gif" width="500" padding="10px"/>
 </div>
 
 
