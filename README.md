@@ -6,7 +6,7 @@
 
 <br>
 
-Welcome to my GitHub Page! I'm an undergraduate student at Northwestern studying CS & Neuroscience.
+Welcome to my GitHub Page! I'm an undergraduate student at Northwestern studying CS, Neuroscience & UI/UX Design.
 
 <!--
 **ellennkim/ellennkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
