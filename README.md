@@ -6,9 +6,7 @@
 
 <br>
 
-Welcome to my GitHub Page! I'm an undergraduate student at Northwestern studying CS & Neuroscience with interests in full-stack development and AI/ML applications.
-
-I'm currently working on a variety of personal projects that blend my passions for thoughtful design and optimized technology, so feel free to take a look around my page! ✧
+Welcome to my GitHub Page! I'm an undergraduate student at Northwestern studying CS & Neuroscience.
 
 <!--
 **ellennkim/ellennkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
